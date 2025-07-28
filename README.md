@@ -5,7 +5,7 @@
 **Yu Wang**, *Professor (Tenure-track) and Master's Supervisor* at **Nanjing University of Posts and Telecommunications (NUPT)**.
 
 🔬 Research: **Physical Layer Security**, **Ubiquitous Sensing**  
-📊 Publications: 100+ SCI/EI papers (20+ as 1st/corresponding author), 6 ESI Highly Cited Papers  
+📊 Publications: 20+ as 1st/corresponding author, 6 ESI Highly Cited Papers  
 📊 Google Scholar Citations: 4,000+
 
 ---
