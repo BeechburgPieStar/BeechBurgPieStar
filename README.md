@@ -2,7 +2,7 @@
 
 # 👨‍🏫 About Me
 
-**Yu Wang** (b.1996), *Professor (Tenure-track) and Master's Supervisor* at **Nanjing University of Posts and Telecommunications (NUPT)**.
+**Yu Wang**, *Professor (Tenure-track) and Master's Supervisor* at **Nanjing University of Posts and Telecommunications (NUPT)**.
 
 🔬 Research: **Physical Layer Security**, **Ubiquitous Sensing**  
 📊 Publications: 100+ SCI/EI papers (20+ as 1st/corresponding author), 6 ESI Highly Cited Papers  
@@ -41,7 +41,7 @@
 
 ---
 
-# 📢 Recruitment | 招收硕士生 & 本科实习生！
+# 📢 Recruitment
 
 We are recruiting **Master’s students** and **Undergraduate interns** who are curious, passionate, and motivated to explore cutting-edge topics in wireless sensing & security.
 
