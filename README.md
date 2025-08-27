@@ -26,9 +26,7 @@
 
 - 🥇 1st Prize, CICC Science & Tech Progress Award  
 - 🥈 3rd Prize, Jiangsu Communication Society  
-- 🌍 World’s Top 2% Scientists (2022–2024)  
-- 🛠️ Organizing roles at IEEE ICCT, EAI ADHIP, etc.  
-- 📰 Youth Editorial Board Member – multiple journals
+- 🌍 World’s Top 2% Scientists (Single-Year Impact/2022–2024)  
 
 ---
 
