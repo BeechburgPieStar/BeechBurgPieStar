@@ -47,5 +47,5 @@ We are recruiting **Master’s students** and **Undergraduate interns** who are 
 ✅ Open & supportive research culture  
 ✅ Long-term growth opportunities
 
-📬 **Contact**: yuwang [AT] njupt.edu.cn
+📬 **Contact**: yuwang [AT] njupt [DOT] edu [DOT] cn
 
