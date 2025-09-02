@@ -34,7 +34,7 @@
 
 - 🔗 [GitHub (Open-source code list)](https://github.com/BeechburgPieStar/LabCode)  
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN)  
-- 🔗 [学校主页（校内访问）](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=d3006b1b1ea24d02b1f34f29a63ec841)
+- 🔗 [南邮主页](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=d3006b1b1ea24d02b1f34f29a63ec841)
 - 🔗 [学者网](https://www.scholat.com/rain1996)
 
 ---
