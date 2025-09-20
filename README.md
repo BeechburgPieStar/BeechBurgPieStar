@@ -6,7 +6,7 @@
 
 🔬 Research: **Physical Layer Security**, **Ubiquitous Sensing**  
 📊 Publications: 20+ as 1st/corresponding author, 6 ESI Highly Cited Papers  
-📊 Google Scholar Citations: 4,500+
+📊 Google Scholar Citations: 4,700+
 
 ---
 
@@ -26,7 +26,7 @@
 
 - 🥇 1st Prize, CICC Science & Tech Progress Award  
 - 🥈 3rd Prize, Jiangsu Communication Society  
-- 🌍 World’s Top 2% Scientists (Single-Year Impact/2022–2024)  
+- 🌍 World’s Top 2% Scientists (Single-Year Impact/2021–2024)  
 
 ---
 
