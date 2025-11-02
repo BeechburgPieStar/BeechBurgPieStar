@@ -49,3 +49,5 @@ We are recruiting **Master’s students** and **Undergraduate interns** who are 
 
 📬 **Contact**: yuwang [AT] njupt [DOT] edu [DOT] cn
 
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=Lorin-github)](https://github.com/BeechBurgPieStar/github-readme-stats)
+
