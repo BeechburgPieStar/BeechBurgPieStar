@@ -79,7 +79,6 @@ We are recruiting **Master's students** and **Undergraduate interns** who are cu
 
 - ✨ Flexible mentorship / 弹性指导  
 - ✨ Open & supportive research culture / 开放包容的科研氛围  
-- ✨ Long-term growth opportunities / 长期发展机会  
-- ✨ Industry collaboration / 产学研合作资源
+- ✨ Long-term growth opportunities / 长期发展机会 
 
 📬 **Contact**: yuwang `[AT]` njupt `[DOT]` edu `[DOT]` cn
