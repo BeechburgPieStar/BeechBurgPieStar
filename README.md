@@ -8,7 +8,7 @@
 🎓 Ph.D. from NJUPT, School of Telecommunications & Information Engineering  
 🔬 Research: **Physical Layer Security**, **Ubiquitous Sensing**, **AI-driven Signal Processing**  
 📊 Publications: **100+ papers** (20+ as 1st/corresponding author), **6 ESI Highly Cited Papers**  
-🔎 Google Scholar Citations: **5,800+**  
+🔎 Google Scholar Citations: **6,000+**  
 
 ---
 
