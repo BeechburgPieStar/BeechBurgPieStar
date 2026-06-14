@@ -63,7 +63,7 @@
 
 | | |
 |---|---|
-| 🐙 **Code Repository** | [github.com/BeechburgPieStar/LabCode](https://github.com/BeechburgPieStar/LabCode) |
+| 🐙 **Code Repository** | [Code Lists](https://github.com/BeechburgPieStar/Open-Source-Code-Lists) |
 | 🔎 **Google Scholar** | [scholar.google.com](https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN) |
 | 🏫 **NJUPT Homepage** | [yjs.njupt.edu.cn](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=d3006b1b1ea24d02b1f34f29a63ec841) |
 | 🎓 **Scholat** | [scholat.com/rain1996](https://www.scholat.com/rain1996) |
