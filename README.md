@@ -28,7 +28,7 @@
 |:----:|-------|
 | 2021–2025 | 🌍 **World's Top 2% Scientists** (Stanford/Elsevier, Single-Year Impact) |
 | 2025 | 🎖️ **Huali Talent Program – Top Talent**, NJUPT |
-| 2023 | 🥇 **1st Prize**, CICC Science & Technology Progress Award (Rank: 5/15) |
+| 2023 | 🥇 **1st Prize**, CICC Science & Technology Progress Award |
 | 2023 | 🥉 **3rd Prize**, Jiangsu Communication Society Science & Technology Award |
 | 2023 | 📜 **F5000 Top Paper**, China Association for Science and Technology |
 | — | 🏅 **7× Best Paper Awards** (CSPS'18, CSPS'19, ICEICT'19, MOBIMEDIA'20, FAIML'24, NGDN'24, AIVRV'24) |
