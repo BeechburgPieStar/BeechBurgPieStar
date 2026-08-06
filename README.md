@@ -34,9 +34,9 @@
 <!-- ======================= NEWS SECTION ======================= -->
 ## 📰 News · 最新动态
 
-- 🎉 **[2026.05]** New paper published in **IEEE TCE** — *Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network*
-- 📖 **[2026.01]** Survey published in **IEEE COMST** — *A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification*
-- 📄 **[2025.10]** New paper published in **IEEE Communications Letters** — *Receiver-Agnostic RF Fingerprinting via Domain-Invariant Feature Learning*
+- 🎉 **[2026.08]** New paper accepted in **IEEE WCL** — *Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI*
+- 🎉 **[2026.08]** New paper accepted in **IEEE CL** — *ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting*
+- 🎉 **[2026.07]** New paper accepted in **IEEE TIFS** — *Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security*
 
 <br/>
 
