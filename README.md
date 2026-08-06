@@ -50,7 +50,7 @@
 ### 🛡️ Physical Layer Security
 **物理层安全**
 
-SEI / RF Fingerprinting · Device Authentication · AMC
+SEI / RF Fingerprinting · Device Authentication
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -58,7 +58,7 @@ SEI / RF Fingerprinting · Device Authentication · AMC
 ### 📡 Ubiquitous Sensing
 **泛在感知**
 
-Human Activity Recognition · Indoor Localization · Sensing
+CSI Sensing · Remote Sensing
 
 </td>
 </tr>
