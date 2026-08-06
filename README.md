@@ -1,83 +1,171 @@
-## Hi there 👋
+<!-- ======================= HEADER BANNER ======================= -->
+<div align="center">
 
-# 👨‍🏫 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=Yu%20Wang%20%7C%20王禹&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Professor%20%40%20NJUPT%20%C2%B7%20Physical%20Layer%20Security%20%C2%B7%20Ubiquitous%20Sensing&descSize=16&descAlignY=60&animation=fadeIn" />
 
-**Yu Wang**, *Professor and Master's Supervisor*  
-**Nanjing University of Posts and Telecommunications (NJUPT)**
+<!-- Typing animation -->
+<a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DF5&center=true&vCenter=true&width=650&lines=Professor+%40+NJUPT+%7C+Master's+Supervisor;RF+Fingerprinting+%26+Specific+Emitter+Identification;100%2B+Papers+%C2%B7+6+ESI+Highly+Cited+%C2%B7+6000%2B+Citations;Recruiting+Master's+students+%26+interns+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-🎓 Ph.D. from NJUPT, School of Telecommunications & Information Engineering  
-🔬 Research: **Physical Layer Security**, **Ubiquitous Sensing**, **AI-driven Signal Processing**  
-📊 Publications: **100+ papers** (20+ as 1st/corresponding author), **6 ESI Highly Cited Papers**  
-🔎 Google Scholar Citations: **6,000+**  
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BeechburgPieStar&label=Profile%20views&color=6E5DF5&style=flat" alt="views" />
+  <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-6000%2B%20citations-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://www.scholat.com/rain1996"><img src="https://img.shields.io/badge/Scholat-Profile-00A98F?style=flat&logo=academia&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/ESI-6%20Highly%20Cited-e74c3c?style=flat" />
+</p>
 
----
-
-# 🧪 Research Interests
-
-- **SEI / RF Fingerprinting** — Specific Emitter Identification, Device Authentication  
-- **AMC / Wireless Technology Recognition** — Automatic Modulation Classification  
-- **Ubiquitous Sensing** — Human Activity Recognition, Indoor Localization, Scenario Identification  
-- **Wireless Communications** — Beamforming, Power Amplifier Modeling, Near-Field Positioning  
-- **Remote Sensing** — Hyperspectral Image Classification, Multimodal Fusion
+</div>
 
 ---
 
-# 🏆 Honors & Awards
+## 👨‍🏫 About Me
+
+🎓 **Yu Wang (王禹)** — *Professor & Master's Supervisor* at **Nanjing University of Posts and Telecommunications (NJUPT)**, School of Telecommunications & Information Engineering.
+
+- 🔬 **Research:** Physical Layer Security (物理层安全) · Ubiquitous Sensing (泛在感知)
+- 📚 **Publications:** 100+ SCI/EI papers (20+ as 1st / corresponding author) in *IEEE COMST, JSAC, TWC, TIFS, TGRS, Information Fusion, IoT-J* …
+- 🌟 **Impact:** 6 ESI Highly Cited Papers · 6,000+ Google Scholar citations
+- 🌍 **World's Top 2% Scientists** (Stanford / Elsevier), 2021–2025
+
+<br/>
+
+<!-- ======================= NEWS SECTION ======================= -->
+## 📰 News · 最新动态
+
+- 🎉 **[2026.05]** New paper published in **IEEE TCE** — *Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network*
+- 📖 **[2026.01]** Survey published in **IEEE COMST** — *A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification*
+- 📄 **[2025.10]** New paper published in **IEEE Communications Letters** — *Receiver-Agnostic RF Fingerprinting via Domain-Invariant Feature Learning*
+
+<br/>
+
+<!-- ======================= RESEARCH ======================= -->
+## 🧪 Research Interests
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🛡️ Physical Layer Security
+**物理层安全**
+
+SEI / RF Fingerprinting · Device Authentication · AMC
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📡 Ubiquitous Sensing
+**泛在感知**
+
+Human Activity Recognition · Indoor Localization · Sensing
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ======================= HONORS ======================= -->
+## 🏆 Honors & Awards
 
 | Year | Award |
-|:----:|-------|
-| 2021–2025 | 🌍 **World's Top 2% Scientists** (Stanford/Elsevier, Single-Year Impact) |
+|:----:|:------|
+| 2021–2025 | 🌍 **World's Top 2% Scientists** — Stanford / Elsevier (Single-Year Impact) |
 | 2025 | 🎖️ **Huali Talent Program – Top Talent**, NJUPT |
 | 2023 | 🥇 **1st Prize**, CICC Science & Technology Progress Award |
 | 2023 | 🥉 **3rd Prize**, Jiangsu Communication Society Science & Technology Award |
 | 2023 | 📜 **F5000 Top Paper**, China Association for Science and Technology |
-| — | 🏅 **7× Best Paper Awards** (CSPS'18, CSPS'19, ICEICT'19, MOBIMEDIA'20, FAIML'24, NGDN'24, AIVRV'24) |
+| — | 🏅 **7× Best Paper Awards** (CSPS'18/'19, ICEICT'19, MOBIMEDIA'20, FAIML'24, NGDN'24, AIVRV'24) |
 
----
+<br/>
 
-# 💼 Grants & Projects
+<!-- ======================= GRANTS ======================= -->
+## 💼 Grants & Projects
 
 | Period | Project | Role |
-|:------:|---------|:----:|
-| 2026–2029 | **NSFC General Program** (No. 62571257) — Beam-Domain RF Fingerprinting | **PI** |
-| 2025–2027 | **NSFC Young Scientists Fund** (No. 62401281) — Robust SEI via Information Bottleneck | **PI** |
-| 2024–2027 | **Jiangsu NSF Youth Fund** (No. BK20240619) — RF Fingerprinting Methods | **PI** |
+|:------:|:--------|:----:|
+| 2026–2029 | **NSFC General Program** (62571257) — Beam-Domain RF Fingerprinting | 🟢 **PI** |
+| 2025–2027 | **NSFC Young Scientists Fund** (62401281) — Robust SEI via Information Bottleneck | 🟢 **PI** |
+| 2024–2027 | **Jiangsu NSF Youth Fund** (BK20240619) — RF Fingerprinting Methods | 🟢 **PI** |
 
----
+<br/>
 
-# 📝 Academic Services
+<!-- ======================= REPRESENTATIVE PAPERS ======================= -->
+## 📄 Selected Publications
 
-**Editorial Board**
-- Youth Editor: *Journal of NUDT*, *Radio Communications Technology*, *Journal of Nantong University*, *Journal of Information and Intelligence*
+<details open>
+<summary><b>🔥 Recent first/corresponding-author works</b></summary>
 
-**Conference Roles**
-- TPC/Workshop Chair: IEEE ICCT 2023, EAI ADHIP 2023/2024, MOBIMEDIA 2025, RICAI 2024, ICASIS 2025, etc.
-- Program Committee: 5th Electromagnetic Spectrum Conference (CIE), 12th Information Fusion Conference (CSAA)
+<br/>
 
-**Reviewer**
-- IEEE TIFS, TMC, TCOM, TWC, TCCN, IoT-J, TVT, WCL, CL, SPL, China Communications, etc.
+- **Y. Wang\***, et al. *"Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network,"* **IEEE TCE**, 2026.
+- C. Liu, G. Gui\*, **Y. Wang\***, et al. *"A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification,"* **IEEE COMST**, 2026.
+- Z. Cai, Y. Yin, **Y. Wang\***, et al. *"Receiver-Agnostic RF Fingerprinting via Domain-Invariant Feature Learning,"* **IEEE Communications Letters**, 2025.
+- H. Wang, **Y. Wang\***, et al. *"Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks,"* **IEEE TGRS**, 2025.
+- H. Wang, **Y. Wang\***, et al. *"Uncertainty-Aware Dynamic Fusion Network with Criss-Cross Attention,"* **Information Fusion**, 2025.
+- **Y. Wang**, et al. *"Avoiding Shortcuts: Channel-Robust SEI via Single-Source Domain Generalization,"* **IEEE TWC**, 2025.
+- **Y. Wang**, et al. *"Efficient Specific Emitter Identification Based on Complex-Valued Neural Networks,"* **IEEE JSAC**, 2021.
 
----
+📚 *Full list on* [**Google Scholar**](https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN)
 
-# 🌐 Links
+</details>
 
-| | |
-|---|---|
-| 🐙 **Code Repository** | [Code Lists](https://github.com/BeechburgPieStar/Open-Source-Code-Lists) |
-| 🔎 **Google Scholar** | [scholar.google.com](https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN) |
-| 🏫 **NJUPT Homepage** | [yjs.njupt.edu.cn](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=d3006b1b1ea24d02b1f34f29a63ec841) |
-| 🎓 **Scholat** | [scholat.com/rain1996](https://www.scholat.com/rain1996) |
+<br/>
 
----
+<!-- ======================= ACADEMIC SERVICES ======================= -->
+## 📝 Academic Services
 
-# 📢 Recruitment / 招生招聘
+**Editorial Board** — Youth Editor: *Journal of NUDT, Radio Communications Technology, Journal of Nantong University, Journal of Information and Intelligence*
 
-We are recruiting **Master's students** and **Undergraduate interns** who are curious, passionate, and motivated to explore cutting-edge topics in wireless sensing & security.
+**Conference Roles** — TPC / Workshop Chair: *IEEE ICCT 2023, EAI ADHIP 2023/2024, MOBIMEDIA 2025, RICAI 2024, ICASIS 2025* …
 
-欢迎对**无线感知**、**物理层安全**、**智能信号处理**感兴趣的同学加入课题组！
+**Reviewer** — *IEEE TIFS, TMC, TCOM, TWC, TCCN, IoT-J, TVT, WCL, CL, SPL, China Communications* …
 
-- ✨ Flexible mentorship / 弹性指导  
-- ✨ Open & supportive research culture / 开放包容的科研氛围  
-- ✨ Long-term growth opportunities / 长期发展机会 
+<br/>
 
-📬 **Contact**: yuwang `[AT]` njupt `[DOT]` edu `[DOT]` cn
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeechburgPieStar&show_icons=true&theme=tokyonight&hide_border=true&icon_color=6E5DF5&title_color=c471ed" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeechburgPieStar&layout=compact&theme=tokyonight&hide_border=true&title_color=c471ed" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BeechburgPieStar&theme=algolia&no-frame=true&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+<!-- ======================= LINKS ======================= -->
+## 🌐 Links
+
+<div align="center">
+
+[![Code Repository](https://img.shields.io/badge/Code%20Lists-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeechburgPieStar/Open-Source-Code-Lists)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN)
+[![NJUPT](https://img.shields.io/badge/NJUPT%20Homepage-C8102E?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=d3006b1b1ea24d02b1f34f29a63ec841)
+[![Scholat](https://img.shields.io/badge/Scholat-00A98F?style=for-the-badge&logo=academia&logoColor=white)](https://www.scholat.com/rain1996)
+
+</div>
+
+<br/>
+
+<!-- ======================= RECRUITMENT ======================= -->
+## 📢 Recruitment · 招生招聘
+
+> 🎓 We are recruiting **Master's students** & **Undergraduate interns** who are curious, passionate, and motivated to explore cutting-edge topics in **wireless sensing & security**.
+>
+> 欢迎对 **无线感知**、**物理层安全**、**智能信号处理** 感兴趣的同学加入课题组！
+
+- ✨ Flexible mentorship / 弹性指导
+- ✨ Open & supportive research culture / 开放包容的科研氛围
+- ✨ Long-term growth opportunities / 长期发展机会
+
+📬 **Contact:** `yuwang [AT] njupt [DOT] edu [DOT] cn`
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=120&section=footer" />
+  <sub>Thanks for visiting! ⭐ Feel free to reach out for collaboration.</sub>
+</div>
