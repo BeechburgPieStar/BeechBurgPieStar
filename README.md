@@ -91,28 +91,6 @@ Human Activity Recognition · Indoor Localization · Sensing
 
 <br/>
 
-<!-- ======================= REPRESENTATIVE PAPERS ======================= -->
-## 📄 Selected Publications
-
-<details open>
-<summary><b>🔥 Recent first/corresponding-author works</b></summary>
-
-<br/>
-
-- **Y. Wang\***, et al. *"Power Amplifier Behavioral Modeling Using Bio-Inspired Multi-Resolution Dynamic Neural Network,"* **IEEE TCE**, 2026.
-- C. Liu, G. Gui\*, **Y. Wang\***, et al. *"A Comprehensive Survey on Self-Supervised Learning for Specific Emitter Identification,"* **IEEE COMST**, 2026.
-- Z. Cai, Y. Yin, **Y. Wang\***, et al. *"Receiver-Agnostic RF Fingerprinting via Domain-Invariant Feature Learning,"* **IEEE Communications Letters**, 2025.
-- H. Wang, **Y. Wang\***, et al. *"Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks,"* **IEEE TGRS**, 2025.
-- H. Wang, **Y. Wang\***, et al. *"Uncertainty-Aware Dynamic Fusion Network with Criss-Cross Attention,"* **Information Fusion**, 2025.
-- **Y. Wang**, et al. *"Avoiding Shortcuts: Channel-Robust SEI via Single-Source Domain Generalization,"* **IEEE TWC**, 2025.
-- **Y. Wang**, et al. *"Efficient Specific Emitter Identification Based on Complex-Valued Neural Networks,"* **IEEE JSAC**, 2021.
-
-📚 *Full list on* [**Google Scholar**](https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN)
-
-</details>
-
-<br/>
-
 <!-- ======================= ACADEMIC SERVICES ======================= -->
 ## 📝 Academic Services
 
@@ -124,14 +102,17 @@ Human Activity Recognition · Indoor Localization · Sensing
 
 <br/>
 
-<!-- ======================= GITHUB STATS ======================= -->
-## 📊 GitHub Stats
+<!-- ======================= HIGHLIGHTS ======================= -->
+## 📊 At a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeechburgPieStar&show_icons=true&theme=tokyonight&hide_border=true&icon_color=6E5DF5&title_color=c471ed" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeechburgPieStar&layout=compact&theme=tokyonight&hide_border=true&title_color=c471ed" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=BeechburgPieStar&theme=algolia&no-frame=true&column=7&margin-w=8" />
+
+![Papers](https://img.shields.io/badge/Papers-100%2B-6E5DF5?style=for-the-badge)
+![First/Corresponding](https://img.shields.io/badge/1st%2FCorresponding-20%2B-c471ed?style=for-the-badge)
+![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-6-e74c3c?style=for-the-badge)
+![Citations](https://img.shields.io/badge/Citations-6000%2B-4285F4?style=for-the-badge)
+![Top 2% Scientists](https://img.shields.io/badge/Top%202%25%20Scientists-2021--2025-f39c12?style=for-the-badge)
+
 </div>
 
 <br/>
