@@ -40,32 +40,6 @@
 
 <br/>
 
-<!-- ======================= RESEARCH ======================= -->
-## 🧪 Research Interests
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🛡️ Physical Layer Security
-**物理层安全**
-
-SEI / RF Fingerprinting · Device Authentication
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 📡 Ubiquitous Sensing
-**泛在感知**
-
-CSI Sensing · Remote Sensing
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <!-- ======================= HONORS ======================= -->
 ## 🏆 Honors & Awards
 
@@ -102,22 +76,6 @@ CSI Sensing · Remote Sensing
 
 <br/>
 
-<!-- ======================= HIGHLIGHTS ======================= -->
-## 📊 At a Glance
-
-<div align="center">
-
-![Papers](https://img.shields.io/badge/Papers-100%2B-6E5DF5?style=for-the-badge)
-![First/Corresponding](https://img.shields.io/badge/1st%2FCorresponding-20%2B-c471ed?style=for-the-badge)
-![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-6-e74c3c?style=for-the-badge)
-![Citations](https://img.shields.io/badge/Citations-6000%2B-4285F4?style=for-the-badge)
-![Top 2% Scientists](https://img.shields.io/badge/Top%202%25%20Scientists-2021--2025-f39c12?style=for-the-badge)
-
-</div>
-
-<br/>
-
-<!-- ======================= LINKS ======================= -->
 ## 🌐 Links
 
 <div align="center">
