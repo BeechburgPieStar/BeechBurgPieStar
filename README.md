@@ -37,7 +37,8 @@
 - 🎉 **[2026.08]** New paper accepted in **IEEE WCL** — *Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI*
 - 🎉 **[2026.08]** New paper accepted in **IEEE CL** — *ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting*
 - 🎉 **[2026.07]** New paper accepted in **IEEE TIFS** — *Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security*
-
+- 🎉 **[2026.07]** New paper accepted in **IEEE TMC** — *IFSOAD: Independent Feature Space Optimization for Open Set Adversarial Defense in Mobile Network*
+- 
 <br/>
 
 <!-- ======================= HONORS ======================= -->
