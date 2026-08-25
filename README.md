@@ -60,7 +60,7 @@
 
 | Period | Project | Role |
 |:------:|:--------|:----:|
-| 2026–2029 | **NSFC General Program** (62571257) — Beam-Domain RF Fingerprinting | 🟢 **PI** |
+| 2026–2029 | **NSFC General Fund** (62571257) — Beam-Domain RF Fingerprinting | 🟢 **PI** |
 | 2025–2027 | **NSFC Young Scientists Fund** (62401281) — Robust SEI via Information Bottleneck | 🟢 **PI** |
 | 2024–2027 | **Jiangsu NSF Youth Fund** (BK20240619) — RF Fingerprinting Methods | 🟢 **PI** |
 
