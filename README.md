@@ -34,6 +34,7 @@
 <!-- ======================= NEWS SECTION ======================= -->
 ## 📰 News · 最新动态
 
+- 🎉 **[2026.09]** New paper accepted in **IEEE WCL** — *Harnessing Second-Order Statistics for Cross-Scenario Over-the-Air Modulation Classification*
 - 🎉 **[2026.08]** New paper accepted in **IEEE WCL** — *Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI*
 - 🎉 **[2026.08]** New paper accepted in **IEEE CL** — *ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting*
 - 🎉 **[2026.07]** New paper accepted in **IEEE TIFS** — *Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security*
