@@ -11,7 +11,7 @@
 <!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=BeechburgPieStar&label=Profile%20views&color=6E5DF5&style=flat" alt="views" />
-  <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-6000%2B%20citations-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-6500%2B%20citations-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.scholat.com/rain1996"><img src="https://img.shields.io/badge/Scholat-Profile-00A98F?style=flat&logo=academia&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/ESI-6%20Highly%20Cited-e74c3c?style=flat" />
 </p>
