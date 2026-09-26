@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DF5&center=true&vCenter=true&width=650&lines=Professor+%40+NJUPT+%7C+Master's+Supervisor;Fingerprinting+%26+Specific+Emitter+Identification;100%2B+Papers+%C2%B7+6+ESI+Highly+Cited+%C2%B7+6500%2B+Citations;Recruiting+Master's+students+%26+interns+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DF5&center=true&vCenter=true&width=650&lines=Professor+%40+NJUPT+%7C+Master's+Supervisor;Fingerprinting+%26+Specific+Emitter+Identification;100%2B+Papers+%C2%B7+6+ESI+Highly+Cited+%C2%B7+6800%2B+Citations;Recruiting+Master's+students+%26+interns+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
@@ -26,7 +26,7 @@
 
 - 🔬 **Research:** Physical Layer Security (物理层安全) · Ubiquitous Sensing (泛在感知)
 - 📚 **Publications:** 100+ SCI/EI papers (20+ as 1st / corresponding author) in *IEEE COMST, JSAC, TWC, TIFS, TGRS, Information Fusion, IoT-J* …
-- 🌟 **Impact:** 6 ESI Highly Cited Papers · 6,000+ Google Scholar citations
+- 🌟 **Impact:** 6 ESI Highly Cited Papers · 6,800+ Google Scholar citations
 - 🌍 **World's Top 2% Scientists** (Stanford / Elsevier), 2021–2025
 
 <br/>
