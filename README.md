@@ -5,13 +5,13 @@
 
 <!-- Typing animation -->
 <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DF5&center=true&vCenter=true&width=650&lines=Professor+%40+NJUPT+%7C+Master's+Supervisor;Fingerprinting+%26+Specific+Emitter+Identification;100%2B+Papers+%C2%B7+6+ESI+Highly+Cited+%C2%B7+6800%2B+Citations;Recruiting+Master's+students+%26+interns+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E5DF5&center=true&vCenter=true&width=650&lines=Professor+%40+NJUPT+%7C+Master's+Supervisor;Fingerprinting+%26+Specific+Emitter+Identification;100%2B+Papers+%C2%B7+6+ESI+Highly+Cited+%C2%B7+7000%2B+Citations;Recruiting+Master's+students+%26+interns+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=BeechburgPieStar&label=Profile%20views&color=6E5DF5&style=flat" alt="views" />
-  <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-6800%2B%20citations-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=93Ik4qoAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-7000%2B%20citations-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.scholat.com/rain1996"><img src="https://img.shields.io/badge/Scholat-Profile-00A98F?style=flat&logo=academia&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/ESI-6%20Highly%20Cited-e74c3c?style=flat" />
 </p>
