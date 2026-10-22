@@ -26,7 +26,7 @@
 
 - 🔬 **Research:** Physical Layer Security (物理层安全) · Ubiquitous Sensing (泛在感知)
 - 📚 **Publications:** 100+ SCI/EI papers (20+ as 1st / corresponding author) in *IEEE COMST, JSAC, TWC, TIFS, TGRS, Information Fusion, IoT-J* …
-- 🌟 **Impact:** 6 ESI Highly Cited Papers · 6,800+ Google Scholar citations
+- 🌟 **Impact:** 6 ESI Highly Cited Papers · 7,000+ Google Scholar citations
 - 🌍 **World's Top 2% Scientists** (Stanford / Elsevier), 2021–2026
 
 <br/>
